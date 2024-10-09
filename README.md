@@ -3,9 +3,13 @@
 
 Some toys
 <dl>
-    <dt>[espoir](https://github.com/imakira/espoir)</dt>
-    <dd>A command line French/English diciontary, base on wordreference</dd>
-    <dt>[subtitle-merger](https://github.com/imakira/subtitle-merger)</dt>
-    <dd>A tool let you merge multiple subtitles togeter</dd>
+    <dt>
+        <a href="https://github.com/imakira/espoir">espoir</a>
+    </dt>
+    <dd>A command line French/English diciontary</dd>
+    <dt>
+        <a href="https://github.com/imakira/subtitle-merger">subtitle-merger</a>
+    </dt>
+    <dd>Merge multiple srt/vtt files together</dd>
 </dl>
 
