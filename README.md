@@ -2,7 +2,7 @@
 <div>
     <img align="left" width="300" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakira&layout=compact">
     <div>
-        Some toys
+        <h3>Some toys</h3>
         <dl>
             <dt>
                 <a href="https://github.com/imakira/espoir">espoir</a>
