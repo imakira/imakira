@@ -15,6 +15,8 @@
         </dl>
     </div>
 </div>
+<br/>
+<br/>
 
 <div>
     <h4>More toys</h4>
