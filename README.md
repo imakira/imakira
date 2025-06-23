@@ -9,9 +9,21 @@
             </dt>
             <dd>A command line French/English diciontary</dd>
             <dt>
-                <a href="https://github.com/imakira/subtitle-merger">subtitle-merger</a>
+                <a href="https://github.com/imakira/cerulean">cerulean</a>
             </dt>
-            <dd>Merge multiple srt/vtt files together</dd>
+            <dd>Yet another static blog generator</dd>
         </dl>
     </div>
+</div>
+
+<div>
+    <h4>More toys</h4>
+    <dt>
+        <a href="https://github.com/imakira/jagger-wasm">jagger-wasm</a>
+    </dt>
+    <dd>A command line French/English diciontary</dd>
+    <dt>
+        <a href="https://github.com/imakira/uix-fontawesome">uix-fontawesome</a>
+    </dt>
+    <dd> FontAwesome icons as uix components for Clojure(Script) </dd>
 </div>
