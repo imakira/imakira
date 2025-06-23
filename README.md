@@ -22,7 +22,7 @@
     <dt>
         <a href="https://github.com/imakira/jagger-wasm">jagger-wasm</a>
     </dt>
-    <dd>A command line French/English diciontary</dd>
+    <dd>wasm port for Jagger(C++ implementation of Pattern-based Japanese Morphological Analyzer) </dd>
     <dt>
         <a href="https://github.com/imakira/uix-fontawesome">uix-fontawesome</a>
     </dt>
