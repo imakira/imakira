@@ -1,4 +1,4 @@
-## Greeting
+## Greetings
 <div>
     <img align="left" width="300" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakira&layout=compact&hide=css,html">
     <div>
