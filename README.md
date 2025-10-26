@@ -20,6 +20,10 @@
 <div>
     <h4>More toys</h4>
     <dt>
+        <a href="https://github.com/imakira/awesomes">awesomes</a>
+    </dt>
+    <dd> A personal awesome list </dd>
+    <dt>
         <a href="https://github.com/imakira/jagger-wasm">jagger-wasm</a>
     </dt>
     <dd>wasm port for Jagger(C++ implementation of Pattern-based Japanese Morphological Analyzer) </dd>
