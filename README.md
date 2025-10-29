@@ -1,6 +1,6 @@
 ## Greetings
 <div>
-    <img align="left" width="300" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakira&layout=compact&hide=css,html&exclude_repo=uix-fontawesome">
+    <img align="left" width="300" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakira&layout=compact&hide=css,html&exclude_repo=uix-fontawesome,imakira.github.io">
     <div>
         <h4>Some toys</h3>
         <dl>
