@@ -2,12 +2,12 @@
 <div>
     <img align="left" width="300" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakira&layout=compact&hide=css,html&exclude_repo=uix-fontawesome,imakira.github.io">
     <div>
-        <h4>Some toys</h3>
+        <h4>Projects</h3>
         <dl>
             <dt>
-                <a href="https://github.com/imakira/espoir">espoir</a>
+                <a href="https://github.com/imakira/js4clj">js4clj</a>
             </dt>
-            <dd>A command line French/English diciontary</dd>
+            <dd>Experimental Clojure-JavaScript bridge through GraalVM </dd>
             <dt>
                 <a href="https://github.com/imakira/cerulean">cerulean</a>
             </dt>
@@ -18,7 +18,11 @@
 <br/>
 
 <div>
-    <h4>More toys</h4>
+    <h4>More Projects/Toys</h4>
+    <dt>
+            <a href="https://github.com/imakira/espoir">espoir</a>
+            </dt>
+            <dd>A command line French/English diciontary</dd>
     <dt>
         <a href="https://github.com/imakira/awesomes">awesomes</a>
     </dt>
