@@ -35,4 +35,9 @@
         <a href="https://github.com/imakira/uix-fontawesome">uix-fontawesome</a>
     </dt>
     <dd> FontAwesome icons as uix components for Clojure(Script) </dd>
+     <dt>
+        <a href="https://github.com/imakira/graaljs-event">graaljs-event</a>
+    </dt>
+    <dd> Experimental Webworker / setTimeout family implementation for GraalJS  </dd>
+    
 </div>
