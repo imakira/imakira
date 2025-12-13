@@ -38,6 +38,6 @@
      <dt>
         <a href="https://github.com/imakira/graaljs-event">graaljs-event</a>
     </dt>
-    <dd> Experimental Webworker / setTimeout family implementation for GraalJS  </dd>
+    <dd> Proof of Concept Webworker / setTimeout family implementation for GraalJS  </dd>
     
 </div>
