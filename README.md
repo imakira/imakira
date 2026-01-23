@@ -10,7 +10,7 @@
             <dt>
                 <a href="https://github.com/imakira/cerulean">cerulean</a>
             </dt>
-            <dd>Yet another static blog generator</dd>
+            <dd> Static blog generator with Clojure / org-mode </dd>
         </dl>
     </div>
 </div>
